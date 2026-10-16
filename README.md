@@ -94,7 +94,7 @@ Note that we all kind of work on everything, listed above is just what we genera
 
 ### Special Thanks:
 
-* Arthur Beck (@AverseABFun) - Forge Firmware Dev and PCB designer (MK1-MK2)
+* Viv (@VivIsBee) - Forge Firmware Dev and PCB designer (MK1-MK2)
 * Brendan Conover (@AGB556) - Former Design Engineer (MK2)
 * Aaron Wong (@aaronw-dev) - Former Project Lead, Firmware Dev, Artist, Electrical Engineer (MK1)
 * Engineering and Sales teams at [Siboor](https://www.siboor.com)
