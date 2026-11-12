@@ -11,8 +11,6 @@
 
 # Forge, Hack Club's 3D Printer
 
-**[Landing Page](https://forge.hackclub.com)** | **[Gallery](https://forge.hackclub.com/gallery)**
-
 2nd Place Finalist of the Hack Club Arcade Showcase 2024, out of over 2000 projects.
 
 Find problems in the world and use programmatic 3D modeling to solve them. Submit your solutions to the Gallery and get a Forge 3D Printer
